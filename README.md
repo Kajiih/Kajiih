@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Julian Paquerotm MS Student at Seoul National University and Ingénieur Civil des Mines at Mines Saint-Etienne
+I'm Julian Paquerot MS Student at Seoul National University and Ingénieur Civil des Mines at Mines Saint-Etienne
 <!--
 **Kajiih/Kajiih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
