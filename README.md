@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="julian-paquerot" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/julian-paquerot?trk=profile-badge">Julian Paquerot</a></div>
+              
