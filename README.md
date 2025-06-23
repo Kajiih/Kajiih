@@ -1,10 +1,4 @@
-🍎 **Kajih**
-
-Hi, Julian here!
-
-Freshly graduated with an engineering degree in Data Science from Mines Saint-Étienne 🇫🇷 and a CS Master’s from Seoul National University 🇰🇷.
-
-I like developing cool Python, Rust and Godot projects, especially when they involve music, applied math or anything that piques my interest! 👨‍💻
+🍎 **Kajih** 🤸
 
 <!--    
 **Kajiih/Kajiih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
